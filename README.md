@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I’m Viraj. I’m pursuing my MS in Business Analytics at Fordham University in NYC.<br><br>Currently working on Mayor MCP validation. I use Python and SQL to explore data, automate reporting, and build practical tools.<br><br>My projects include forecasting Citi Bike demand and analyzing Airbnb reviews to find complaints that star ratings miss.<br><br>Happy to connect with others working on data, MCP, and interesting projects.
 
 
